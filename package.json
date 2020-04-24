@@ -1,0 +1,22 @@
+{
+  "name": "hextrisplus",
+  "version": "1.0.0",
+  "description": "This is an reimplementation of a puzzle game hextris",
+  "main": "a.js",
+  "homepage": "https://liuw56.github.io/hextrisplus/",
+  "scripts": {
+    "deploy": "gh-pages -d ./"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liuw56/hextrisplus.git"
+  },
+  "author": "Wei Liu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/liuw56/hextrisplus/issues"
+  },
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
